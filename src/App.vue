@@ -1,9 +1,10 @@
 <script setup lang="ts">
-import { ref } from 'vue'
+import { ref, onMounted } from 'vue'
 
 const name = ref('John Doe')
 const status = ref('active')
-const tasks = ['Task One', 'Task Two', 'Task Three']
+const tasks = ref(['Task One', 'Task Two', 'Task Three'])
+const newTask = ref('')
 
 const toggleStatus = () => {
   if (status.value === 'active') {
@@ -14,6 +15,27 @@ const toggleStatus = () => {
     status.value = 'inactive'
   }
 }
+
+const addTask = () => {
+  if (newTask.value.trim() !== '') {
+    tasks.value.push(newTask.value)
+    newTask.value = ''
+  }
+}
+
+const deleteTask = (index) => {
+  tasks.value.splice(index, 1)
+}
+
+onMounted(async (params: type) => {
+  try {
+    const response = await fetch('https://jsonplaceholder.typicode.com/todos')
+    const data = await response.json()
+    tasks.value = data.map((task) => task.title)
+  } catch (error) {
+    console.log('Error fetching tasks')
+  }
+})
 </script>
 
 <template>
