@@ -29,20 +29,6 @@
       }
     },
     {
-      "id": "3",
-      "title": "Vue.js Developer",
-      "type": "Full-Time",
-      "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
-      "location": "Brooklyn, NY",
-      "salary": "$70K - $80K",
-      "company": {
-        "name": "Dolor Cloud",
-        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
-        "contactEmail": "contact@dolorsitamet.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
-    {
       "id": "4",
       "title": "Vue Front-End Developer",
       "type": "Part-Time",
@@ -85,20 +71,6 @@
       }
     },
     {
-      "id": "ac2f",
-      "title": "Dennis Callahan",
-      "type": "Remote",
-      "location": "Do deserunt minus qu",
-      "description": "Repellendus Delenit",
-      "salary": "$80K - $90K",
-      "company": {
-        "name": "Bailey Mccarthy Plc",
-        "description": "Doloremque commodo l",
-        "contactEmail": "gubofoky@mailinator.com",
-        "contactPhone": "+1 (831) 336-7702"
-      }
-    },
-    {
       "id": "ef5b",
       "title": "Deborah Woodard",
       "type": "Full-Time",
@@ -113,157 +85,45 @@
       }
     },
     {
-      "id": "8610",
-      "title": "Orlando Herrera",
-      "type": "Internship",
-      "location": "Cupiditate sed dolor",
-      "description": "Qui et quibusdam exe",
-      "salary": "$175K - $200K",
-      "company": {
-        "name": "Gillespie and Mendoza Associates",
-        "description": "Atque omnis ad maxim",
-        "contactEmail": "bymuj@mailinator.com",
-        "contactPhone": "+1 (571) 272-5385"
-      }
-    },
-    {
-      "id": "5934",
-      "title": "Chaim Shepard",
-      "type": "Remote",
-      "location": "Sunt fugit ullam es",
-      "description": "Esse sed sit dolor",
-      "salary": "Under $50K",
-      "company": {
-        "name": "Little Puckett Co",
-        "description": "Dolores suscipit nos",
-        "contactEmail": "lukapyly@mailinator.com",
-        "contactPhone": "+1 (441) 119-5765"
-      }
-    },
-    {
-      "id": "0837",
-      "title": "Yardley Mills",
-      "type": "Full-Time",
-      "location": "Ea asperiores corrup",
-      "description": "Veniam totam illum",
-      "salary": "$80K - $90K",
-      "company": {
-        "name": "Olson Carter LLC",
-        "description": "Esse dolore accusan",
-        "contactEmail": "fyti@mailinator.com",
-        "contactPhone": "+1 (504) 216-4852"
-      }
-    },
-    {
-      "id": "06a6",
-      "title": "Ray Sheppard",
-      "type": "Full-Time",
-      "location": "Est dolore consectet",
-      "description": "Voluptas expedita vi",
-      "salary": "Over $200K",
-      "company": {
-        "name": "Gross Goodwin LLC",
-        "description": "Autem quod neque in ",
-        "contactEmail": "havuqu@mailinator.com",
-        "contactPhone": "+1 (258) 418-1903"
-      }
-    },
-    {
-      "id": "c8b2",
-      "title": "Giacomo Franklin",
-      "type": "Remote",
-      "location": "Ullamco mollitia min",
-      "description": "Commodi error hic et",
+      "id": "00a9",
+      "title": "Kylie Rice",
+      "type": "Part-Time",
+      "location": "Nam proident est cu",
+      "description": "In voluptatem accusa",
       "salary": "$60K - $70K",
       "company": {
-        "name": "Pugh and Wilson Trading",
-        "description": "Ratione quas distinc",
-        "contactEmail": "zupabilicu@mailinator.com",
-        "contactPhone": "+1 (639) 821-5997"
+        "name": "Anthony and Berger Associates",
+        "description": "Consequatur Id ea o",
+        "contactEmail": "togu@mailinator.com",
+        "contactPhone": "+1 (734) 796-1014"
       }
     },
     {
-      "id": "dd8e",
-      "title": "Fuller Hutchinson",
+      "id": "387f",
+      "title": "Cain Carson",
       "type": "Part-Time",
-      "location": "Repudiandae minim do",
-      "description": "Iste occaecat sequi ",
+      "location": "Dolores est vero nem",
+      "description": "Quaerat non est est ",
       "salary": "$60K - $70K",
       "company": {
-        "name": "Gillespie and Solis LLC",
-        "description": "Exercitationem eius ",
-        "contactEmail": "vinon@mailinator.com",
-        "contactPhone": "+1 (728) 965-7271"
+        "name": "Hunter and Koch Trading",
+        "description": "Sed quis impedit vo",
+        "contactEmail": "hadijylox@mailinator.com",
+        "contactPhone": "+1 (343) 749-5993"
       }
     },
     {
-      "id": "0fee",
-      "title": "Ignatius Hatfield",
-      "type": "Remote",
-      "location": "Ex elit dolorem ali",
-      "description": "Alias incididunt mol",
-      "salary": "$175K - $200K",
-      "company": {
-        "name": "Garza and Wilkerson Plc",
-        "description": "Cum hic non non maxi",
-        "contactEmail": "fufomene@mailinator.com",
-        "contactPhone": "+1 (615) 137-4788"
-      }
-    },
-    {
-      "id": "25ad",
-      "title": "asdf",
-      "type": "Part-Time",
-      "location": "asdf",
-      "description": "asdfas",
-      "salary": "$175K - $200K",
-      "company": {
-        "name": "asdf",
-        "description": "asdf",
-        "contactEmail": "aasd@ss.ss",
-        "contactPhone": "asdf"
-      }
-    },
-    {
-      "id": "c10e",
-      "title": "Darryl Ortega",
+      "id": "90bb",
+      "title": "Ethan Mcgowan",
       "type": "Internship",
-      "location": "Laborum omnis ad lau",
-      "description": "Rerum minus sunt bea",
+      "location": "Ab reprehenderit so",
+      "description": "Tenetur fugiat fugia",
       "salary": "$50K - $60K",
       "company": {
-        "name": "Brady Kim Traders",
-        "description": "Omnis qui et laborum",
-        "contactEmail": "pesymofa@mailinator.com",
-        "contactPhone": "+1 (731) 328-1164"
-      }
-    },
-    {
-      "id": "ca30",
-      "title": "Reece Nielsen",
-      "type": "Part-Time",
-      "location": "Adipisci fugiat est",
-      "description": "Ab necessitatibus ha",
-      "salary": "$150K - $175K",
-      "company": {
-        "name": "Middleton Bradford Plc",
-        "description": "Harum dolor praesent",
-        "contactEmail": "jexudifu@mailinator.com",
-        "contactPhone": "+1 (405) 195-9584"
-      }
-    },
-    {
-      "id": "1aa1",
-      "title": "Blossom Dale",
-      "type": "Part-Time",
-      "location": "Qui quae minim minim",
-      "description": "Est dolor at cum et ",
-      "salary": "$150K - $175K",
-      "company": {
-        "name": "Kirby and Herring Associates",
-        "description": "Rem labore voluptate",
-        "contactEmail": "romuwi@mailinator.com",
-        "contactPhone": "+1 (863) 348-2118"
+        "name": "Myers and Mcfadden LLC",
+        "description": "Fugiat cumque doloru",
+        "contactEmail": "xomufegu@mailinator.com",
+        "contactPhone": "+1 (514) 898-4493"
       }
     }
   ]
